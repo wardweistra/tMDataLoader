@@ -1,7 +1,7 @@
 tMDataLoader
 ============
 
-[![Build Status](https://travis-ci.org/ThomsonReuters-LSPS/tMDataLoader.svg?branch=master)](https://travis-ci.org/ThomsonReuters-LSPS/tMDataLoader)
+[![Build Status](https://travis-ci.org/Clarivate-LSPS/tMDataLoader.svg?branch=master)](https://travis-ci.org/Clarivate-LSPS/tMDataLoader)
 
 tm_etl.jar - Transmart ETL tool
 Contributed by Thomson Reuters
